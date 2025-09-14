@@ -37,7 +37,9 @@ The project follows a three-stage pipeline:
  
 # File Descriptions
 `app.py`: Extracts and saves features from all dataset images. Run once for dataset preparation.
+
 `main.py`: Streamlit web app for reverse image search. Main user interface.
+
 `test.py`: Standalone test script to verify image search functionality from command line.
 
 # Dependencies
